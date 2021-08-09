@@ -1,0 +1,122 @@
+{
+    "TikTok": {
+        "name": "TikTok",
+        "gid": "com.zhiliaoapp.musically",
+        "aid": "835599320",
+        "genre": "Social"
+    },
+    "Facebook": {
+        "name": "Facebook",
+        "gid": "com.facebook.katana",
+        "aid": "284882215",
+        "genre": "Social"
+    },
+    "Instagram": {
+        "name": "Instagram",
+        "gid": "com.instagram.android",
+        "aid": "389801252",
+        "genre": "Social"
+    },
+    "Snapchat": {
+        "name": "Snapchat",
+        "gid": "com.snapchat.android",
+        "aid": "447188370",
+        "genre": "Social"
+    },
+    "Pinterest": {
+        "name": "Pinterest",
+        "gid": "com.pinterest",
+        "aid": "429047995",
+        "genre": "Social"
+    },
+    "Twitter": {
+        "name": "Twitter",
+        "gid": "com.twitter.android",
+        "aid": "333903271",
+        "genre": "Social"
+    },
+    "BIGO Live": {
+        "name": "BIGO Live",
+        "gid": "sg.bigo.live",
+        "aid": "1077137248",
+        "genre": "Social"
+    },
+    "MX TakaTak": {
+        "name": "MX TakaTak",
+        "gid": "com.next.innovation.takatak",
+        "aid": "1522698952",
+        "genre": "Social"
+    },
+    "Josh Videos": {
+        "name": "Josh Videos",
+        "gid": "com.eterno.shortvideos",
+        "aid": "1530819820",
+        "genre": "Social"
+    },
+    "Moj": {
+        "name": "Moj",
+        "gid": "in.mohalla.video",
+        "aid": "1523457550",
+        "genre": "Social"
+    },
+    "WhatsApp": {
+        "name": "WhatsApp",
+        "gid": "com.whatsapp",
+        "aid": "310633997",
+        "genre": "Communication"
+    },
+    "Zoom": {
+        "name": "Zoom",
+        "gid": "us.zoom.videomeetings",
+        "aid": "546505307",
+        "genre": "Communication"
+    },
+    "Messenger": {
+        "name": "Messenger",
+        "gid": "com.facebook.orca",
+        "aid": "454638411",
+        "genre": "Communication"
+    },
+    "Telegram": {
+        "name": "Telegram",
+        "gid": "org.telegram.messenger",
+        "aid": "686449807",
+        "genre": "Communication"
+    },
+    "Google Meet": {
+        "name": "Google Meet",
+        "gid": "com.google.android.apps.meetings",
+        "aid": "1013231476",
+        "genre": "Communication"
+    },
+    "Microsoft Teams": {
+        "name": "Microsoft Teams",
+        "gid": "com.microsoft.teams",
+        "aid": "1113153706",
+        "genre": "Communication"
+    },
+    "Discord": {
+        "name": "Discord",
+        "gid": "com.discord",
+        "aid": "985746746",
+        "genre": "Communication"
+    },
+    "WhatsApp Business": {
+        "name": "WhatsApp Business",
+        "gid": "com.whatsapp.w4b",
+        "aid": "1386412985",
+        "genre": "Communication"
+    },
+    "WeChat": {
+        "name": "WeChat",
+        "gid": "com.tencent.mm",
+        "aid": "414478124",
+        "genre": "Communication"
+    },
+    "Imo": {
+        "name": "Imo",
+        "gid": "com.imo.android.imoim",
+        "aid": "1400579543",
+        "genre": "Communication"
+    }
+}

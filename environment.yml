@@ -1,0 +1,16 @@
+name: appcense
+channels:
+  - conda-forge
+dependencies:
+  - python=3.8
+  - jupyter
+  - pandas
+  - pip
+  - pip:
+    - ipykernel
+    - google-play-scraper==1.0.0
+    - itunes-app-scraper-dmi==0.9.4
+    - pycountry==20.7.3
+    - requests==2.23.0
+    - urllib3==1.25.11
+prefix: /Users/esutherl/opt/anaconda3/envs/appcense

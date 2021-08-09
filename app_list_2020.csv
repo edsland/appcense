@@ -1,0 +1,21 @@
+name,gid,aid,genre
+TikTok,com.zhiliaoapp.musically,835599320,Social
+Facebook,com.facebook.katana,284882215,Social
+Instagram,com.instagram.android,389801252,Social
+Snapchat,com.snapchat.android,447188370,Social
+Pinterest,com.pinterest,429047995,Social
+Twitter,com.twitter.android,333903271,Social
+BIGO Live,sg.bigo.live,1077137248,Social
+MX TakaTak,com.next.innovation.takatak,1522698952,Social
+Josh Videos,com.eterno.shortvideos,1530819820,Social
+Moj,in.mohalla.video,1523457550,Social
+WhatsApp,com.whatsapp,310633997,Communication
+Zoom,us.zoom.videomeetings,546505307,Communication
+Messenger,com.facebook.orca,454638411,Communication
+Telegram,org.telegram.messenger,686449807,Communication
+Google Meet,com.google.android.apps.meetings,1013231476,Communication
+Microsoft Teams,com.microsoft.teams,1113153706,Communication
+Discord,com.discord,985746746,Communication
+WhatsApp Business,com.whatsapp.w4b,1386412985,Communication
+WeChat,com.tencent.mm,414478124,Communication
+Imo,com.imo.android.imoim,1400579543,Communication
