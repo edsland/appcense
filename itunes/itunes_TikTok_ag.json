@@ -18,9 +18,9 @@
       "sellerUrl": "http://www.tiktok.com",
       "formattedPrice": "Free",
       "contentAdvisoryRating": "12+",
-      "averageUserRatingForCurrentVersion": 4.67561,
-      "userRatingCountForCurrentVersion": 1640,
-      "averageUserRating": 4.67561,
+      "averageUserRatingForCurrentVersion": 4.67766,
+      "userRatingCountForCurrentVersion": 1638,
+      "averageUserRating": 4.67766,
       "trackViewUrl": "https://apps.apple.com/ag/app/tiktok/id835599320?uo=4",
       "trackContentRating": "12+",
       "genreIds": "6016,6008",
@@ -42,5 +42,5 @@
       "bundleId": "com.zhiliaoapp.musically",
       "version": "20.6.0",
       "wrapperType": "software",
-      "userRatingCount": 1640
+      "userRatingCount": 1638
 }

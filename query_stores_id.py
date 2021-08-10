@@ -1,18 +1,20 @@
 import pathlib
-import google_play_scraper
+import google_play_scraper as gplay
 from itunes_app_scraper.scraper import AppStoreScraper
 import json
 import csv 
 from pprint import pprint
 from datetime import datetime
 import pycountry
+import time
 
 appstore = AppStoreScraper()
-gplay = google_play_scraper.app
+
+
 
 #create directories
 print("Creating directories")
-directories=["tencent", "gplay", "itunes", "output"]
+directories=["gplay", "itunes", "output"]
 
 for directory in directories:
     pathlib.Path(f"{directory}").mkdir(parents=True, exist_ok=True)
@@ -64,7 +66,7 @@ def app_scrapper():
 
     
     #country list
-    #ISO3166CC=["af", "ax", "al", "dz", "as"]
+    #ISO3166CC=['ne', 'ng', 'nf', 'mp', 'no']
     COUNTRY_LIST=['af', 'al', 'dz', 'ao', 'ai', 'ag', 'ar', 'am', 'au', 'at', 'az', 'bs', 'bh', 'bb', 'by', 'be', 'bz', 'bj', 'bm', 'bt', 'bo', 
     'ba', 'bw', 'br', 'io', 'bn', 'bg', 'bf', 'cv', 'kh', 'cm', 'ca', 'ky', 'td', 'cl', 'cn', 'cx', 'cc', 'co', 'cg', 'cd', 'cr', 'ci', 'hr', 
     'cw', 'cy', 'cz', 'dk', 'dm', 'do', 'ec', 'eg', 'sv', 'ee', 'sz', 'fj', 'fi', 'fr', 'ga', 'gm', 'ge', 'de', 'gh', 'gr', 'gd', 'gu', 'gt', 
@@ -98,12 +100,14 @@ def app_scrapper():
             print(f"Querying play store and itunes for {app['name']} in {country}")
             cc = pycountry.countries.get(alpha_2=country)
             country_name = cc.name
-            try:
-                gresult = gplay(app['gid'], country=country)
-                save_json(f"gplay/gplay_{app['name']}_{country}.json", gresult)
 
+            try:
+                
+                gresult = gplay.app(app['gid'], country=country)
+                save_json(f"gplay/gplay_{app['name']}_{country}.json", gresult)
+                
                 rdata = [timestamp, app['name'], app['gid'], 'google', country, country_name, 'True', app['genre'], gresult['url']]
-                csvrows.append(timestamp, rdata)
+                #csvrows.append(rdata)
             except:
                 #print(f"App {app['name']} doesn't exist in {country}!")
                 save_json(f"gplay/gplay_{app['name']}_{country}.json", "[]")
@@ -125,7 +129,9 @@ def app_scrapper():
                 csvrows.append(rdata)
     
     print('Saving result to csv file')
+
     save_csv(csvrows)
 
+print(f"started at {time.strftime('%X')}")
 app_scrapper()
-
+print(f"finished at {time.strftime('%X')}")
