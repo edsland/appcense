@@ -1,0 +1,121 @@
+timestamp,name,id,store,country_code,country,available,genre,url
+2021-08-12-14-33-14,TikTok,com.zhiliaoapp.musically,google,ne,Niger,True,Social,https://play.google.com/store/apps/details?id=com.zhiliaoapp.musically&hl=en&gl=ne
+2021-08-12-14-33-14,TikTok,835599320,apple,ne,Niger,True,Social,https://apps.apple.com/ne/app/tiktok/id835599320?uo=4
+2021-08-12-14-33-14,TikTok,com.zhiliaoapp.musically,google,ng,Nigeria,True,Social,https://play.google.com/store/apps/details?id=com.zhiliaoapp.musically&hl=en&gl=ng
+2021-08-12-14-33-14,TikTok,835599320,apple,ng,Nigeria,True,Social,https://apps.apple.com/ng/app/tiktok/id835599320?uo=4
+2021-08-12-14-33-14,TikTok,com.zhiliaoapp.musically,google,nf,Norfolk Island,True,Social,https://play.google.com/store/apps/details?id=com.zhiliaoapp.musically&hl=en&gl=nf
+2021-08-12-14-33-14,TikTok,835599320,apple,nf,Norfolk Island,False,Social,None
+2021-08-12-14-33-14,Facebook,com.facebook.katana,google,ne,Niger,True,Social,https://play.google.com/store/apps/details?id=com.facebook.katana&hl=en&gl=ne
+2021-08-12-14-33-14,Facebook,284882215,apple,ne,Niger,True,Social,https://apps.apple.com/ne/app/facebook/id284882215?uo=4
+2021-08-12-14-33-14,Facebook,com.facebook.katana,google,ng,Nigeria,True,Social,https://play.google.com/store/apps/details?id=com.facebook.katana&hl=en&gl=ng
+2021-08-12-14-33-14,Facebook,284882215,apple,ng,Nigeria,True,Social,https://apps.apple.com/ng/app/facebook/id284882215?uo=4
+2021-08-12-14-33-14,Facebook,com.facebook.katana,google,nf,Norfolk Island,True,Social,https://play.google.com/store/apps/details?id=com.facebook.katana&hl=en&gl=nf
+2021-08-12-14-33-14,Facebook,284882215,apple,nf,Norfolk Island,False,Social,None
+2021-08-12-14-33-14,Instagram,com.instagram.android,google,ne,Niger,True,Social,https://play.google.com/store/apps/details?id=com.instagram.android&hl=en&gl=ne
+2021-08-12-14-33-14,Instagram,389801252,apple,ne,Niger,True,Social,https://apps.apple.com/ne/app/instagram/id389801252?uo=4
+2021-08-12-14-33-14,Instagram,com.instagram.android,google,ng,Nigeria,True,Social,https://play.google.com/store/apps/details?id=com.instagram.android&hl=en&gl=ng
+2021-08-12-14-33-14,Instagram,389801252,apple,ng,Nigeria,True,Social,https://apps.apple.com/ng/app/instagram/id389801252?uo=4
+2021-08-12-14-33-14,Instagram,com.instagram.android,google,nf,Norfolk Island,True,Social,https://play.google.com/store/apps/details?id=com.instagram.android&hl=en&gl=nf
+2021-08-12-14-33-14,Instagram,389801252,apple,nf,Norfolk Island,False,Social,None
+2021-08-12-14-33-14,Snapchat,com.snapchat.android,google,ne,Niger,True,Social,https://play.google.com/store/apps/details?id=com.snapchat.android&hl=en&gl=ne
+2021-08-12-14-33-14,Snapchat,447188370,apple,ne,Niger,True,Social,https://apps.apple.com/ne/app/snapchat/id447188370?uo=4
+2021-08-12-14-33-14,Snapchat,com.snapchat.android,google,ng,Nigeria,True,Social,https://play.google.com/store/apps/details?id=com.snapchat.android&hl=en&gl=ng
+2021-08-12-14-33-14,Snapchat,447188370,apple,ng,Nigeria,True,Social,https://apps.apple.com/ng/app/snapchat/id447188370?uo=4
+2021-08-12-14-33-14,Snapchat,com.snapchat.android,google,nf,Norfolk Island,True,Social,https://play.google.com/store/apps/details?id=com.snapchat.android&hl=en&gl=nf
+2021-08-12-14-33-14,Snapchat,447188370,apple,nf,Norfolk Island,False,Social,None
+2021-08-12-14-33-14,Pinterest,com.pinterest,google,ne,Niger,True,Social,https://play.google.com/store/apps/details?id=com.pinterest&hl=en&gl=ne
+2021-08-12-14-33-14,Pinterest,429047995,apple,ne,Niger,True,Social,https://apps.apple.com/ne/app/pinterest-lifestyle-ideas/id429047995?uo=4
+2021-08-12-14-33-14,Pinterest,com.pinterest,google,ng,Nigeria,True,Social,https://play.google.com/store/apps/details?id=com.pinterest&hl=en&gl=ng
+2021-08-12-14-33-14,Pinterest,429047995,apple,ng,Nigeria,True,Social,https://apps.apple.com/ng/app/pinterest-lifestyle-ideas/id429047995?uo=4
+2021-08-12-14-33-14,Pinterest,com.pinterest,google,nf,Norfolk Island,True,Social,https://play.google.com/store/apps/details?id=com.pinterest&hl=en&gl=nf
+2021-08-12-14-33-14,Pinterest,429047995,apple,nf,Norfolk Island,False,Social,None
+2021-08-12-14-33-14,Twitter,com.twitter.android,google,ne,Niger,True,Social,https://play.google.com/store/apps/details?id=com.twitter.android&hl=en&gl=ne
+2021-08-12-14-33-14,Twitter,333903271,apple,ne,Niger,True,Social,https://apps.apple.com/ne/app/twitter/id333903271?uo=4
+2021-08-12-14-33-14,Twitter,com.twitter.android,google,ng,Nigeria,True,Social,https://play.google.com/store/apps/details?id=com.twitter.android&hl=en&gl=ng
+2021-08-12-14-33-14,Twitter,333903271,apple,ng,Nigeria,True,Social,https://apps.apple.com/ng/app/twitter/id333903271?uo=4
+2021-08-12-14-33-14,Twitter,com.twitter.android,google,nf,Norfolk Island,True,Social,https://play.google.com/store/apps/details?id=com.twitter.android&hl=en&gl=nf
+2021-08-12-14-33-14,Twitter,333903271,apple,nf,Norfolk Island,False,Social,None
+2021-08-12-14-33-14,BIGO Live,sg.bigo.live,google,ne,Niger,True,Social,https://play.google.com/store/apps/details?id=sg.bigo.live&hl=en&gl=ne
+2021-08-12-14-33-14,BIGO Live,1077137248,apple,ne,Niger,True,Social,https://apps.apple.com/ne/app/bigo-live-live-stream-go-live/id1077137248?uo=4
+2021-08-12-14-33-14,BIGO Live,sg.bigo.live,google,ng,Nigeria,True,Social,https://play.google.com/store/apps/details?id=sg.bigo.live&hl=en&gl=ng
+2021-08-12-14-33-14,BIGO Live,1077137248,apple,ng,Nigeria,True,Social,https://apps.apple.com/ng/app/bigo-live-live-stream-go-live/id1077137248?uo=4
+2021-08-12-14-33-14,BIGO Live,sg.bigo.live,google,nf,Norfolk Island,True,Social,https://play.google.com/store/apps/details?id=sg.bigo.live&hl=en&gl=nf
+2021-08-12-14-33-14,BIGO Live,1077137248,apple,nf,Norfolk Island,False,Social,None
+2021-08-12-14-33-14,MX TakaTak,com.next.innovation.takatak,google,ne,Niger,True,Social,https://play.google.com/store/apps/details?id=com.next.innovation.takatak&hl=en&gl=ne
+2021-08-12-14-33-14,MX TakaTak,1522698952,apple,ne,Niger,False,Social,None
+2021-08-12-14-33-14,MX TakaTak,com.next.innovation.takatak,google,ng,Nigeria,True,Social,https://play.google.com/store/apps/details?id=com.next.innovation.takatak&hl=en&gl=ng
+2021-08-12-14-33-14,MX TakaTak,1522698952,apple,ng,Nigeria,False,Social,None
+2021-08-12-14-33-14,MX TakaTak,com.next.innovation.takatak,google,nf,Norfolk Island,True,Social,https://play.google.com/store/apps/details?id=com.next.innovation.takatak&hl=en&gl=nf
+2021-08-12-14-33-14,MX TakaTak,1522698952,apple,nf,Norfolk Island,False,Social,None
+2021-08-12-14-33-14,Josh Videos,com.eterno.shortvideos,google,ne,Niger,True,Social,https://play.google.com/store/apps/details?id=com.eterno.shortvideos&hl=en&gl=ne
+2021-08-12-14-33-14,Josh Videos,1530819820,apple,ne,Niger,True,Social,https://apps.apple.com/ne/app/josh-videos/id1530819820?uo=4
+2021-08-12-14-33-14,Josh Videos,com.eterno.shortvideos,google,ng,Nigeria,True,Social,https://play.google.com/store/apps/details?id=com.eterno.shortvideos&hl=en&gl=ng
+2021-08-12-14-33-14,Josh Videos,1530819820,apple,ng,Nigeria,True,Social,https://apps.apple.com/ng/app/josh-videos/id1530819820?uo=4
+2021-08-12-14-33-14,Josh Videos,com.eterno.shortvideos,google,nf,Norfolk Island,True,Social,https://play.google.com/store/apps/details?id=com.eterno.shortvideos&hl=en&gl=nf
+2021-08-12-14-33-14,Josh Videos,1530819820,apple,nf,Norfolk Island,False,Social,None
+2021-08-12-14-33-14,Moj,in.mohalla.video,google,ne,Niger,True,Social,https://play.google.com/store/apps/details?id=in.mohalla.video&hl=en&gl=ne
+2021-08-12-14-33-14,Moj,1523457550,apple,ne,Niger,True,Social,https://apps.apple.com/ne/app/moj-short-video-app/id1523457550?uo=4
+2021-08-12-14-33-14,Moj,in.mohalla.video,google,ng,Nigeria,True,Social,https://play.google.com/store/apps/details?id=in.mohalla.video&hl=en&gl=ng
+2021-08-12-14-33-14,Moj,1523457550,apple,ng,Nigeria,True,Social,https://apps.apple.com/ng/app/moj-short-video-app/id1523457550?uo=4
+2021-08-12-14-33-14,Moj,in.mohalla.video,google,nf,Norfolk Island,True,Social,https://play.google.com/store/apps/details?id=in.mohalla.video&hl=en&gl=nf
+2021-08-12-14-33-14,Moj,1523457550,apple,nf,Norfolk Island,False,Social,None
+2021-08-12-14-33-14,WhatsApp,com.whatsapp,google,ne,Niger,True,Communication,https://play.google.com/store/apps/details?id=com.whatsapp&hl=en&gl=ne
+2021-08-12-14-33-14,WhatsApp,310633997,apple,ne,Niger,True,Communication,https://apps.apple.com/ne/app/whatsapp-messenger/id310633997?uo=4
+2021-08-12-14-33-14,WhatsApp,com.whatsapp,google,ng,Nigeria,True,Communication,https://play.google.com/store/apps/details?id=com.whatsapp&hl=en&gl=ng
+2021-08-12-14-33-14,WhatsApp,310633997,apple,ng,Nigeria,True,Communication,https://apps.apple.com/ng/app/whatsapp-messenger/id310633997?uo=4
+2021-08-12-14-33-14,WhatsApp,com.whatsapp,google,nf,Norfolk Island,True,Communication,https://play.google.com/store/apps/details?id=com.whatsapp&hl=en&gl=nf
+2021-08-12-14-33-14,WhatsApp,310633997,apple,nf,Norfolk Island,False,Communication,None
+2021-08-12-14-33-14,Zoom,us.zoom.videomeetings,google,ne,Niger,True,Communication,https://play.google.com/store/apps/details?id=us.zoom.videomeetings&hl=en&gl=ne
+2021-08-12-14-33-14,Zoom,546505307,apple,ne,Niger,True,Communication,https://apps.apple.com/ne/app/zoom-cloud-meetings/id546505307?uo=4
+2021-08-12-14-33-14,Zoom,us.zoom.videomeetings,google,ng,Nigeria,True,Communication,https://play.google.com/store/apps/details?id=us.zoom.videomeetings&hl=en&gl=ng
+2021-08-12-14-33-14,Zoom,546505307,apple,ng,Nigeria,True,Communication,https://apps.apple.com/ng/app/zoom-cloud-meetings/id546505307?uo=4
+2021-08-12-14-33-14,Zoom,us.zoom.videomeetings,google,nf,Norfolk Island,True,Communication,https://play.google.com/store/apps/details?id=us.zoom.videomeetings&hl=en&gl=nf
+2021-08-12-14-33-14,Zoom,546505307,apple,nf,Norfolk Island,False,Communication,None
+2021-08-12-14-33-14,Messenger,com.facebook.orca,google,ne,Niger,True,Communication,https://play.google.com/store/apps/details?id=com.facebook.orca&hl=en&gl=ne
+2021-08-12-14-33-14,Messenger,454638411,apple,ne,Niger,True,Communication,https://apps.apple.com/ne/app/messenger/id454638411?uo=4
+2021-08-12-14-33-14,Messenger,com.facebook.orca,google,ng,Nigeria,True,Communication,https://play.google.com/store/apps/details?id=com.facebook.orca&hl=en&gl=ng
+2021-08-12-14-33-14,Messenger,454638411,apple,ng,Nigeria,True,Communication,https://apps.apple.com/ng/app/messenger/id454638411?uo=4
+2021-08-12-14-33-14,Messenger,com.facebook.orca,google,nf,Norfolk Island,True,Communication,https://play.google.com/store/apps/details?id=com.facebook.orca&hl=en&gl=nf
+2021-08-12-14-33-14,Messenger,454638411,apple,nf,Norfolk Island,False,Communication,None
+2021-08-12-14-33-14,Telegram,org.telegram.messenger,google,ne,Niger,True,Communication,https://play.google.com/store/apps/details?id=org.telegram.messenger&hl=en&gl=ne
+2021-08-12-14-33-14,Telegram,686449807,apple,ne,Niger,True,Communication,https://apps.apple.com/ne/app/telegram-messenger/id686449807?uo=4
+2021-08-12-14-33-14,Telegram,org.telegram.messenger,google,ng,Nigeria,True,Communication,https://play.google.com/store/apps/details?id=org.telegram.messenger&hl=en&gl=ng
+2021-08-12-14-33-14,Telegram,686449807,apple,ng,Nigeria,True,Communication,https://apps.apple.com/ng/app/telegram-messenger/id686449807?uo=4
+2021-08-12-14-33-14,Telegram,org.telegram.messenger,google,nf,Norfolk Island,True,Communication,https://play.google.com/store/apps/details?id=org.telegram.messenger&hl=en&gl=nf
+2021-08-12-14-33-14,Telegram,686449807,apple,nf,Norfolk Island,False,Communication,None
+2021-08-12-14-33-14,Google Meet,com.google.android.apps.meetings,google,ne,Niger,True,Communication,https://play.google.com/store/apps/details?id=com.google.android.apps.meetings&hl=en&gl=ne
+2021-08-12-14-33-14,Google Meet,1013231476,apple,ne,Niger,True,Communication,https://apps.apple.com/ne/app/google-meet/id1013231476?uo=4
+2021-08-12-14-33-14,Google Meet,com.google.android.apps.meetings,google,ng,Nigeria,True,Communication,https://play.google.com/store/apps/details?id=com.google.android.apps.meetings&hl=en&gl=ng
+2021-08-12-14-33-14,Google Meet,1013231476,apple,ng,Nigeria,True,Communication,https://apps.apple.com/ng/app/google-meet/id1013231476?uo=4
+2021-08-12-14-33-14,Google Meet,com.google.android.apps.meetings,google,nf,Norfolk Island,True,Communication,https://play.google.com/store/apps/details?id=com.google.android.apps.meetings&hl=en&gl=nf
+2021-08-12-14-33-14,Google Meet,1013231476,apple,nf,Norfolk Island,False,Communication,None
+2021-08-12-14-33-14,Microsoft Teams,com.microsoft.teams,google,ne,Niger,True,Communication,https://play.google.com/store/apps/details?id=com.microsoft.teams&hl=en&gl=ne
+2021-08-12-14-33-14,Microsoft Teams,1113153706,apple,ne,Niger,True,Communication,https://apps.apple.com/ne/app/microsoft-teams/id1113153706?uo=4
+2021-08-12-14-33-14,Microsoft Teams,com.microsoft.teams,google,ng,Nigeria,True,Communication,https://play.google.com/store/apps/details?id=com.microsoft.teams&hl=en&gl=ng
+2021-08-12-14-33-14,Microsoft Teams,1113153706,apple,ng,Nigeria,True,Communication,https://apps.apple.com/ng/app/microsoft-teams/id1113153706?uo=4
+2021-08-12-14-33-14,Microsoft Teams,com.microsoft.teams,google,nf,Norfolk Island,True,Communication,https://play.google.com/store/apps/details?id=com.microsoft.teams&hl=en&gl=nf
+2021-08-12-14-33-14,Microsoft Teams,1113153706,apple,nf,Norfolk Island,False,Communication,None
+2021-08-12-14-33-14,Discord,com.discord,google,ne,Niger,True,Communication,https://play.google.com/store/apps/details?id=com.discord&hl=en&gl=ne
+2021-08-12-14-33-14,Discord,985746746,apple,ne,Niger,True,Communication,https://apps.apple.com/ne/app/discord-talk-chat-hangout/id985746746?uo=4
+2021-08-12-14-33-14,Discord,com.discord,google,ng,Nigeria,True,Communication,https://play.google.com/store/apps/details?id=com.discord&hl=en&gl=ng
+2021-08-12-14-33-14,Discord,985746746,apple,ng,Nigeria,True,Communication,https://apps.apple.com/ng/app/discord-talk-chat-hangout/id985746746?uo=4
+2021-08-12-14-33-14,Discord,com.discord,google,nf,Norfolk Island,True,Communication,https://play.google.com/store/apps/details?id=com.discord&hl=en&gl=nf
+2021-08-12-14-33-14,Discord,985746746,apple,nf,Norfolk Island,False,Communication,None
+2021-08-12-14-33-14,WhatsApp Business,com.whatsapp.w4b,google,ne,Niger,True,Communication,https://play.google.com/store/apps/details?id=com.whatsapp.w4b&hl=en&gl=ne
+2021-08-12-14-33-14,WhatsApp Business,1386412985,apple,ne,Niger,True,Communication,https://apps.apple.com/ne/app/whatsapp-business/id1386412985?uo=4
+2021-08-12-14-33-14,WhatsApp Business,com.whatsapp.w4b,google,ng,Nigeria,True,Communication,https://play.google.com/store/apps/details?id=com.whatsapp.w4b&hl=en&gl=ng
+2021-08-12-14-33-14,WhatsApp Business,1386412985,apple,ng,Nigeria,True,Communication,https://apps.apple.com/ng/app/whatsapp-business/id1386412985?uo=4
+2021-08-12-14-33-14,WhatsApp Business,com.whatsapp.w4b,google,nf,Norfolk Island,True,Communication,https://play.google.com/store/apps/details?id=com.whatsapp.w4b&hl=en&gl=nf
+2021-08-12-14-33-14,WhatsApp Business,1386412985,apple,nf,Norfolk Island,False,Communication,None
+2021-08-12-14-33-14,WeChat,com.tencent.mm,google,ne,Niger,True,Communication,https://play.google.com/store/apps/details?id=com.tencent.mm&hl=en&gl=ne
+2021-08-12-14-33-14,WeChat,414478124,apple,ne,Niger,True,Communication,https://apps.apple.com/ne/app/wechat/id414478124?uo=4
+2021-08-12-14-33-14,WeChat,com.tencent.mm,google,ng,Nigeria,True,Communication,https://play.google.com/store/apps/details?id=com.tencent.mm&hl=en&gl=ng
+2021-08-12-14-33-14,WeChat,414478124,apple,ng,Nigeria,True,Communication,https://apps.apple.com/ng/app/wechat/id414478124?uo=4
+2021-08-12-14-33-14,WeChat,com.tencent.mm,google,nf,Norfolk Island,True,Communication,https://play.google.com/store/apps/details?id=com.tencent.mm&hl=en&gl=nf
+2021-08-12-14-33-14,WeChat,414478124,apple,nf,Norfolk Island,False,Communication,None
+2021-08-12-14-33-14,Imo,com.imo.android.imoim,google,ne,Niger,True,Communication,https://play.google.com/store/apps/details?id=com.imo.android.imoim&hl=en&gl=ne
+2021-08-12-14-33-14,Imo,1400579543,apple,ne,Niger,False,Communication,None
+2021-08-12-14-33-14,Imo,com.imo.android.imoim,google,ng,Nigeria,True,Communication,https://play.google.com/store/apps/details?id=com.imo.android.imoim&hl=en&gl=ng
+2021-08-12-14-33-14,Imo,1400579543,apple,ng,Nigeria,False,Communication,None
+2021-08-12-14-33-14,Imo,com.imo.android.imoim,google,nf,Norfolk Island,True,Communication,https://play.google.com/store/apps/details?id=com.imo.android.imoim&hl=en&gl=nf
+2021-08-12-14-33-14,Imo,1400579543,apple,nf,Norfolk Island,False,Communication,None

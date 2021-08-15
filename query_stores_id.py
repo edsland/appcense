@@ -128,6 +128,12 @@ def app_scapper():
     print('Saving result to csv file')
     save_csv(f"output/{timestamp}-appcensor.csv", csvrows)
 
+def scrapper_selector(store, country, app):
+    if store == 'itunes':
+        itunes_scrapper(country, app)
+    elif store == 'gplay':
+        gplay_scrapper(country, app)
+
 
 if __name__=='__main__':
 

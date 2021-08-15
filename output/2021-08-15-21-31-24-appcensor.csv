@@ -1,0 +1,241 @@
+timestamp,name,id,store,country_code,country,available,genre,url
+2021-08-15-21-31-24,TikTok,835599320,itunes,af,Afghanistan,False,Social,None
+2021-08-15-21-31-24,Pinterest,429047995,itunes,af,Afghanistan,False,Social,None
+2021-08-15-21-31-24,Twitter,333903271,itunes,af,Afghanistan,False,Social,None
+2021-08-15-21-31-24,Facebook,284882215,itunes,af,Afghanistan,False,Social,None
+2021-08-15-21-31-24,BIGO Live,1077137248,itunes,af,Afghanistan,False,Social,None
+2021-08-15-21-31-24,Instagram,389801252,itunes,af,Afghanistan,False,Social,None
+2021-08-15-21-31-24,MX TakaTak,1522698952,itunes,af,Afghanistan,False,Social,None
+2021-08-15-21-31-24,Snapchat,447188370,itunes,af,Afghanistan,False,Social,None
+2021-08-15-21-31-24,Josh Videos,1530819820,itunes,af,Afghanistan,False,Social,None
+2021-08-15-21-31-24,Moj,1523457550,itunes,af,Afghanistan,False,Social,None
+2021-08-15-21-31-24,MX TakaTak,com.next.innovation.takatak,gplay,af,Afghanistan,True,Social,https://play.google.com/store/apps/details?id=com.next.innovation.takatak&hl=en&gl=af
+2021-08-15-21-31-24,WhatsApp,310633997,itunes,af,Afghanistan,False,Communication,None
+2021-08-15-21-31-24,Snapchat,com.snapchat.android,gplay,af,Afghanistan,True,Social,https://play.google.com/store/apps/details?id=com.snapchat.android&hl=en&gl=af
+2021-08-15-21-31-24,Zoom,546505307,itunes,af,Afghanistan,False,Communication,None
+2021-08-15-21-31-24,Twitter,com.twitter.android,gplay,af,Afghanistan,True,Social,https://play.google.com/store/apps/details?id=com.twitter.android&hl=en&gl=af
+2021-08-15-21-31-24,Messenger,454638411,itunes,af,Afghanistan,False,Communication,None
+2021-08-15-21-31-24,TikTok,com.zhiliaoapp.musically,gplay,af,Afghanistan,True,Social,https://play.google.com/store/apps/details?id=com.zhiliaoapp.musically&hl=en&gl=af
+2021-08-15-21-31-24,Telegram,686449807,itunes,af,Afghanistan,False,Communication,None
+2021-08-15-21-31-24,Instagram,com.instagram.android,gplay,af,Afghanistan,True,Social,https://play.google.com/store/apps/details?id=com.instagram.android&hl=en&gl=af
+2021-08-15-21-31-24,Google Meet,1013231476,itunes,af,Afghanistan,False,Communication,None
+2021-08-15-21-31-24,BIGO Live,sg.bigo.live,gplay,af,Afghanistan,True,Social,https://play.google.com/store/apps/details?id=sg.bigo.live&hl=en&gl=af
+2021-08-15-21-31-24,Microsoft Teams,1113153706,itunes,af,Afghanistan,False,Communication,None
+2021-08-15-21-31-24,Josh Videos,com.eterno.shortvideos,gplay,af,Afghanistan,True,Social,https://play.google.com/store/apps/details?id=com.eterno.shortvideos&hl=en&gl=af
+2021-08-15-21-31-24,Discord,985746746,itunes,af,Afghanistan,False,Communication,None
+2021-08-15-21-31-24,Pinterest,com.pinterest,gplay,af,Afghanistan,True,Social,https://play.google.com/store/apps/details?id=com.pinterest&hl=en&gl=af
+2021-08-15-21-31-24,WhatsApp Business,1386412985,itunes,af,Afghanistan,False,Communication,None
+2021-08-15-21-31-24,Moj,in.mohalla.video,gplay,af,Afghanistan,True,Social,https://play.google.com/store/apps/details?id=in.mohalla.video&hl=en&gl=af
+2021-08-15-21-31-24,WeChat,414478124,itunes,af,Afghanistan,False,Communication,None
+2021-08-15-21-31-24,WhatsApp,com.whatsapp,gplay,af,Afghanistan,True,Communication,https://play.google.com/store/apps/details?id=com.whatsapp&hl=en&gl=af
+2021-08-15-21-31-24,Imo,1400579543,itunes,af,Afghanistan,False,Communication,None
+2021-08-15-21-31-24,Zoom,us.zoom.videomeetings,gplay,af,Afghanistan,True,Communication,https://play.google.com/store/apps/details?id=us.zoom.videomeetings&hl=en&gl=af
+2021-08-15-21-31-24,TikTok,835599320,itunes,al,Albania,False,Social,None
+2021-08-15-21-31-24,Facebook,com.facebook.katana,gplay,af,Afghanistan,True,Social,https://play.google.com/store/apps/details?id=com.facebook.katana&hl=en&gl=af
+2021-08-15-21-31-24,Facebook,284882215,itunes,al,Albania,False,Social,None
+2021-08-15-21-31-24,Messenger,com.facebook.orca,gplay,af,Afghanistan,True,Communication,https://play.google.com/store/apps/details?id=com.facebook.orca&hl=en&gl=af
+2021-08-15-21-31-24,Instagram,389801252,itunes,al,Albania,False,Social,None
+2021-08-15-21-31-24,Telegram,org.telegram.messenger,gplay,af,Afghanistan,True,Communication,https://play.google.com/store/apps/details?id=org.telegram.messenger&hl=en&gl=af
+2021-08-15-21-31-24,Snapchat,447188370,itunes,al,Albania,False,Social,None
+2021-08-15-21-31-24,WeChat,com.tencent.mm,gplay,af,Afghanistan,True,Communication,https://play.google.com/store/apps/details?id=com.tencent.mm&hl=en&gl=af
+2021-08-15-21-31-24,Pinterest,429047995,itunes,al,Albania,False,Social,None
+2021-08-15-21-31-24,Discord,com.discord,gplay,af,Afghanistan,True,Communication,https://play.google.com/store/apps/details?id=com.discord&hl=en&gl=af
+2021-08-15-21-31-24,Twitter,333903271,itunes,al,Albania,False,Social,None
+2021-08-15-21-31-24,Microsoft Teams,com.microsoft.teams,gplay,af,Afghanistan,True,Communication,https://play.google.com/store/apps/details?id=com.microsoft.teams&hl=en&gl=af
+2021-08-15-21-31-24,BIGO Live,1077137248,itunes,al,Albania,False,Social,None
+2021-08-15-21-31-24,TikTok,com.zhiliaoapp.musically,gplay,al,Albania,True,Social,https://play.google.com/store/apps/details?id=com.zhiliaoapp.musically&hl=en&gl=al
+2021-08-15-21-31-24,MX TakaTak,1522698952,itunes,al,Albania,False,Social,None
+2021-08-15-21-31-24,Google Meet,com.google.android.apps.meetings,gplay,af,Afghanistan,True,Communication,https://play.google.com/store/apps/details?id=com.google.android.apps.meetings&hl=en&gl=af
+2021-08-15-21-31-24,Josh Videos,1530819820,itunes,al,Albania,False,Social,None
+2021-08-15-21-31-24,Imo,com.imo.android.imoim,gplay,af,Afghanistan,True,Communication,https://play.google.com/store/apps/details?id=com.imo.android.imoim&hl=en&gl=af
+2021-08-15-21-31-24,Moj,1523457550,itunes,al,Albania,False,Social,None
+2021-08-15-21-31-24,Facebook,com.facebook.katana,gplay,al,Albania,True,Social,https://play.google.com/store/apps/details?id=com.facebook.katana&hl=en&gl=al
+2021-08-15-21-31-24,WhatsApp,310633997,itunes,al,Albania,False,Communication,None
+2021-08-15-21-31-24,WhatsApp Business,com.whatsapp.w4b,gplay,af,Afghanistan,True,Communication,https://play.google.com/store/apps/details?id=com.whatsapp.w4b&hl=en&gl=af
+2021-08-15-21-31-24,Zoom,546505307,itunes,al,Albania,False,Communication,None
+2021-08-15-21-31-24,BIGO Live,sg.bigo.live,gplay,al,Albania,True,Social,https://play.google.com/store/apps/details?id=sg.bigo.live&hl=en&gl=al
+2021-08-15-21-31-24,Messenger,454638411,itunes,al,Albania,False,Communication,None
+2021-08-15-21-31-24,Pinterest,com.pinterest,gplay,al,Albania,True,Social,https://play.google.com/store/apps/details?id=com.pinterest&hl=en&gl=al
+2021-08-15-21-31-24,Telegram,686449807,itunes,al,Albania,False,Communication,None
+2021-08-15-21-31-24,Josh Videos,com.eterno.shortvideos,gplay,al,Albania,True,Social,https://play.google.com/store/apps/details?id=com.eterno.shortvideos&hl=en&gl=al
+2021-08-15-21-31-24,Google Meet,1013231476,itunes,al,Albania,False,Communication,None
+2021-08-15-21-31-24,Instagram,com.instagram.android,gplay,al,Albania,True,Social,https://play.google.com/store/apps/details?id=com.instagram.android&hl=en&gl=al
+2021-08-15-21-31-24,Microsoft Teams,1113153706,itunes,al,Albania,False,Communication,None
+2021-08-15-21-31-24,Twitter,com.twitter.android,gplay,al,Albania,True,Social,https://play.google.com/store/apps/details?id=com.twitter.android&hl=en&gl=al
+2021-08-15-21-31-24,Discord,985746746,itunes,al,Albania,False,Communication,None
+2021-08-15-21-31-24,Moj,in.mohalla.video,gplay,al,Albania,True,Social,https://play.google.com/store/apps/details?id=in.mohalla.video&hl=en&gl=al
+2021-08-15-21-31-24,WhatsApp Business,1386412985,itunes,al,Albania,False,Communication,None
+2021-08-15-21-31-24,Snapchat,com.snapchat.android,gplay,al,Albania,True,Social,https://play.google.com/store/apps/details?id=com.snapchat.android&hl=en&gl=al
+2021-08-15-21-31-24,WeChat,414478124,itunes,al,Albania,False,Communication,None
+2021-08-15-21-31-24,WhatsApp,com.whatsapp,gplay,al,Albania,True,Communication,https://play.google.com/store/apps/details?id=com.whatsapp&hl=en&gl=al
+2021-08-15-21-31-24,Imo,1400579543,itunes,al,Albania,False,Communication,None
+2021-08-15-21-31-24,Zoom,us.zoom.videomeetings,gplay,al,Albania,True,Communication,https://play.google.com/store/apps/details?id=us.zoom.videomeetings&hl=en&gl=al
+2021-08-15-21-31-24,TikTok,835599320,itunes,dz,Algeria,False,Social,None
+2021-08-15-21-31-24,Messenger,com.facebook.orca,gplay,al,Albania,True,Communication,https://play.google.com/store/apps/details?id=com.facebook.orca&hl=en&gl=al
+2021-08-15-21-31-24,Facebook,284882215,itunes,dz,Algeria,False,Social,None
+2021-08-15-21-31-24,MX TakaTak,com.next.innovation.takatak,gplay,al,Albania,True,Social,https://play.google.com/store/apps/details?id=com.next.innovation.takatak&hl=en&gl=al
+2021-08-15-21-31-24,Instagram,389801252,itunes,dz,Algeria,False,Social,None
+2021-08-15-21-31-24,Microsoft Teams,com.microsoft.teams,gplay,al,Albania,True,Communication,https://play.google.com/store/apps/details?id=com.microsoft.teams&hl=en&gl=al
+2021-08-15-21-31-24,Snapchat,447188370,itunes,dz,Algeria,False,Social,None
+2021-08-15-21-31-24,Google Meet,com.google.android.apps.meetings,gplay,al,Albania,True,Communication,https://play.google.com/store/apps/details?id=com.google.android.apps.meetings&hl=en&gl=al
+2021-08-15-21-31-24,Pinterest,429047995,itunes,dz,Algeria,False,Social,None
+2021-08-15-21-31-24,Discord,com.discord,gplay,al,Albania,True,Communication,https://play.google.com/store/apps/details?id=com.discord&hl=en&gl=al
+2021-08-15-21-31-24,Twitter,333903271,itunes,dz,Algeria,False,Social,None
+2021-08-15-21-31-24,WhatsApp Business,com.whatsapp.w4b,gplay,al,Albania,True,Communication,https://play.google.com/store/apps/details?id=com.whatsapp.w4b&hl=en&gl=al
+2021-08-15-21-31-24,BIGO Live,1077137248,itunes,dz,Algeria,False,Social,None
+2021-08-15-21-31-24,Imo,com.imo.android.imoim,gplay,al,Albania,True,Communication,https://play.google.com/store/apps/details?id=com.imo.android.imoim&hl=en&gl=al
+2021-08-15-21-31-24,MX TakaTak,1522698952,itunes,dz,Algeria,False,Social,None
+2021-08-15-21-31-24,TikTok,com.zhiliaoapp.musically,gplay,dz,Algeria,True,Social,https://play.google.com/store/apps/details?id=com.zhiliaoapp.musically&hl=en&gl=dz
+2021-08-15-21-31-24,Josh Videos,1530819820,itunes,dz,Algeria,False,Social,None
+2021-08-15-21-31-24,WeChat,com.tencent.mm,gplay,al,Albania,True,Communication,https://play.google.com/store/apps/details?id=com.tencent.mm&hl=en&gl=al
+2021-08-15-21-31-24,Moj,1523457550,itunes,dz,Algeria,False,Social,None
+2021-08-15-21-31-24,Facebook,com.facebook.katana,gplay,dz,Algeria,True,Social,https://play.google.com/store/apps/details?id=com.facebook.katana&hl=en&gl=dz
+2021-08-15-21-31-24,WhatsApp,310633997,itunes,dz,Algeria,False,Communication,None
+2021-08-15-21-31-24,Instagram,com.instagram.android,gplay,dz,Algeria,True,Social,https://play.google.com/store/apps/details?id=com.instagram.android&hl=en&gl=dz
+2021-08-15-21-31-24,Zoom,546505307,itunes,dz,Algeria,False,Communication,None
+2021-08-15-21-31-24,Snapchat,com.snapchat.android,gplay,dz,Algeria,True,Social,https://play.google.com/store/apps/details?id=com.snapchat.android&hl=en&gl=dz
+2021-08-15-21-31-24,Messenger,454638411,itunes,dz,Algeria,False,Communication,None
+2021-08-15-21-31-24,BIGO Live,sg.bigo.live,gplay,dz,Algeria,True,Social,https://play.google.com/store/apps/details?id=sg.bigo.live&hl=en&gl=dz
+2021-08-15-21-31-24,Telegram,686449807,itunes,dz,Algeria,False,Communication,None
+2021-08-15-21-31-24,Telegram,org.telegram.messenger,gplay,al,Albania,True,Communication,https://play.google.com/store/apps/details?id=org.telegram.messenger&hl=en&gl=al
+2021-08-15-21-31-24,Google Meet,1013231476,itunes,dz,Algeria,False,Communication,None
+2021-08-15-21-31-24,Twitter,com.twitter.android,gplay,dz,Algeria,True,Social,https://play.google.com/store/apps/details?id=com.twitter.android&hl=en&gl=dz
+2021-08-15-21-31-24,Pinterest,com.pinterest,gplay,dz,Algeria,True,Social,https://play.google.com/store/apps/details?id=com.pinterest&hl=en&gl=dz
+2021-08-15-21-31-24,Microsoft Teams,1113153706,itunes,dz,Algeria,False,Communication,None
+2021-08-15-21-31-24,Discord,985746746,itunes,dz,Algeria,False,Communication,None
+2021-08-15-21-31-24,MX TakaTak,com.next.innovation.takatak,gplay,dz,Algeria,True,Social,https://play.google.com/store/apps/details?id=com.next.innovation.takatak&hl=en&gl=dz
+2021-08-15-21-31-24,WhatsApp Business,1386412985,itunes,dz,Algeria,False,Communication,None
+2021-08-15-21-31-24,Moj,in.mohalla.video,gplay,dz,Algeria,True,Social,https://play.google.com/store/apps/details?id=in.mohalla.video&hl=en&gl=dz
+2021-08-15-21-31-24,WeChat,414478124,itunes,dz,Algeria,False,Communication,None
+2021-08-15-21-31-24,Josh Videos,com.eterno.shortvideos,gplay,dz,Algeria,True,Social,https://play.google.com/store/apps/details?id=com.eterno.shortvideos&hl=en&gl=dz
+2021-08-15-21-31-24,Imo,1400579543,itunes,dz,Algeria,False,Communication,None
+2021-08-15-21-31-24,WhatsApp,com.whatsapp,gplay,dz,Algeria,True,Communication,https://play.google.com/store/apps/details?id=com.whatsapp&hl=en&gl=dz
+2021-08-15-21-31-24,TikTok,835599320,itunes,ao,Angola,False,Social,None
+2021-08-15-21-31-24,Messenger,com.facebook.orca,gplay,dz,Algeria,True,Communication,https://play.google.com/store/apps/details?id=com.facebook.orca&hl=en&gl=dz
+2021-08-15-21-31-24,Facebook,284882215,itunes,ao,Angola,False,Social,None
+2021-08-15-21-31-24,Zoom,us.zoom.videomeetings,gplay,dz,Algeria,True,Communication,https://play.google.com/store/apps/details?id=us.zoom.videomeetings&hl=en&gl=dz
+2021-08-15-21-31-24,Instagram,389801252,itunes,ao,Angola,False,Social,None
+2021-08-15-21-31-24,Telegram,org.telegram.messenger,gplay,dz,Algeria,True,Communication,https://play.google.com/store/apps/details?id=org.telegram.messenger&hl=en&gl=dz
+2021-08-15-21-31-24,Snapchat,447188370,itunes,ao,Angola,False,Social,None
+2021-08-15-21-31-24,WhatsApp Business,com.whatsapp.w4b,gplay,dz,Algeria,True,Communication,https://play.google.com/store/apps/details?id=com.whatsapp.w4b&hl=en&gl=dz
+2021-08-15-21-31-24,Pinterest,429047995,itunes,ao,Angola,False,Social,None
+2021-08-15-21-31-24,WeChat,com.tencent.mm,gplay,dz,Algeria,True,Communication,https://play.google.com/store/apps/details?id=com.tencent.mm&hl=en&gl=dz
+2021-08-15-21-31-24,Twitter,333903271,itunes,ao,Angola,False,Social,None
+2021-08-15-21-31-24,Google Meet,com.google.android.apps.meetings,gplay,dz,Algeria,True,Communication,https://play.google.com/store/apps/details?id=com.google.android.apps.meetings&hl=en&gl=dz
+2021-08-15-21-31-24,BIGO Live,1077137248,itunes,ao,Angola,False,Social,None
+2021-08-15-21-31-24,Microsoft Teams,com.microsoft.teams,gplay,dz,Algeria,True,Communication,https://play.google.com/store/apps/details?id=com.microsoft.teams&hl=en&gl=dz
+2021-08-15-21-31-24,MX TakaTak,1522698952,itunes,ao,Angola,False,Social,None
+2021-08-15-21-31-24,Imo,com.imo.android.imoim,gplay,dz,Algeria,True,Communication,https://play.google.com/store/apps/details?id=com.imo.android.imoim&hl=en&gl=dz
+2021-08-15-21-31-24,Josh Videos,1530819820,itunes,ao,Angola,False,Social,None
+2021-08-15-21-31-24,Discord,com.discord,gplay,dz,Algeria,True,Communication,https://play.google.com/store/apps/details?id=com.discord&hl=en&gl=dz
+2021-08-15-21-31-24,Moj,1523457550,itunes,ao,Angola,False,Social,None
+2021-08-15-21-31-24,Facebook,com.facebook.katana,gplay,ao,Angola,True,Social,https://play.google.com/store/apps/details?id=com.facebook.katana&hl=en&gl=ao
+2021-08-15-21-31-24,WhatsApp,310633997,itunes,ao,Angola,False,Communication,None
+2021-08-15-21-31-24,Instagram,com.instagram.android,gplay,ao,Angola,True,Social,https://play.google.com/store/apps/details?id=com.instagram.android&hl=en&gl=ao
+2021-08-15-21-31-24,Zoom,546505307,itunes,ao,Angola,False,Communication,None
+2021-08-15-21-31-24,TikTok,com.zhiliaoapp.musically,gplay,ao,Angola,True,Social,https://play.google.com/store/apps/details?id=com.zhiliaoapp.musically&hl=en&gl=ao
+2021-08-15-21-31-24,Messenger,454638411,itunes,ao,Angola,False,Communication,None
+2021-08-15-21-31-24,Snapchat,com.snapchat.android,gplay,ao,Angola,True,Social,https://play.google.com/store/apps/details?id=com.snapchat.android&hl=en&gl=ao
+2021-08-15-21-31-24,Telegram,686449807,itunes,ao,Angola,False,Communication,None
+2021-08-15-21-31-24,Twitter,com.twitter.android,gplay,ao,Angola,True,Social,https://play.google.com/store/apps/details?id=com.twitter.android&hl=en&gl=ao
+2021-08-15-21-31-24,Google Meet,1013231476,itunes,ao,Angola,False,Communication,None
+2021-08-15-21-31-24,Pinterest,com.pinterest,gplay,ao,Angola,True,Social,https://play.google.com/store/apps/details?id=com.pinterest&hl=en&gl=ao
+2021-08-15-21-31-24,Microsoft Teams,1113153706,itunes,ao,Angola,False,Communication,None
+2021-08-15-21-31-24,BIGO Live,sg.bigo.live,gplay,ao,Angola,True,Social,https://play.google.com/store/apps/details?id=sg.bigo.live&hl=en&gl=ao
+2021-08-15-21-31-24,Discord,985746746,itunes,ao,Angola,False,Communication,None
+2021-08-15-21-31-24,MX TakaTak,com.next.innovation.takatak,gplay,ao,Angola,True,Social,https://play.google.com/store/apps/details?id=com.next.innovation.takatak&hl=en&gl=ao
+2021-08-15-21-31-24,WhatsApp Business,1386412985,itunes,ao,Angola,False,Communication,None
+2021-08-15-21-31-24,Josh Videos,com.eterno.shortvideos,gplay,ao,Angola,True,Social,https://play.google.com/store/apps/details?id=com.eterno.shortvideos&hl=en&gl=ao
+2021-08-15-21-31-24,WeChat,414478124,itunes,ao,Angola,False,Communication,None
+2021-08-15-21-31-24,WhatsApp,com.whatsapp,gplay,ao,Angola,True,Communication,https://play.google.com/store/apps/details?id=com.whatsapp&hl=en&gl=ao
+2021-08-15-21-31-24,Imo,1400579543,itunes,ao,Angola,False,Communication,None
+2021-08-15-21-31-24,Telegram,org.telegram.messenger,gplay,ao,Angola,True,Communication,https://play.google.com/store/apps/details?id=org.telegram.messenger&hl=en&gl=ao
+2021-08-15-21-31-24,TikTok,835599320,itunes,ai,Anguilla,False,Social,None
+2021-08-15-21-31-24,Messenger,com.facebook.orca,gplay,ao,Angola,True,Communication,https://play.google.com/store/apps/details?id=com.facebook.orca&hl=en&gl=ao
+2021-08-15-21-31-24,Facebook,284882215,itunes,ai,Anguilla,False,Social,None
+2021-08-15-21-31-24,Zoom,us.zoom.videomeetings,gplay,ao,Angola,True,Communication,https://play.google.com/store/apps/details?id=us.zoom.videomeetings&hl=en&gl=ao
+2021-08-15-21-31-24,Instagram,389801252,itunes,ai,Anguilla,False,Social,None
+2021-08-15-21-31-24,Moj,in.mohalla.video,gplay,ao,Angola,True,Social,https://play.google.com/store/apps/details?id=in.mohalla.video&hl=en&gl=ao
+2021-08-15-21-31-24,Snapchat,447188370,itunes,ai,Anguilla,False,Social,None
+2021-08-15-21-31-24,Microsoft Teams,com.microsoft.teams,gplay,ao,Angola,True,Communication,https://play.google.com/store/apps/details?id=com.microsoft.teams&hl=en&gl=ao
+2021-08-15-21-31-24,Pinterest,429047995,itunes,ai,Anguilla,False,Social,None
+2021-08-15-21-31-24,Google Meet,com.google.android.apps.meetings,gplay,ao,Angola,True,Communication,https://play.google.com/store/apps/details?id=com.google.android.apps.meetings&hl=en&gl=ao
+2021-08-15-21-31-24,Twitter,333903271,itunes,ai,Anguilla,False,Social,None
+2021-08-15-21-31-24,Discord,com.discord,gplay,ao,Angola,True,Communication,https://play.google.com/store/apps/details?id=com.discord&hl=en&gl=ao
+2021-08-15-21-31-24,BIGO Live,1077137248,itunes,ai,Anguilla,False,Social,None
+2021-08-15-21-31-24,WeChat,com.tencent.mm,gplay,ao,Angola,True,Communication,https://play.google.com/store/apps/details?id=com.tencent.mm&hl=en&gl=ao
+2021-08-15-21-31-24,MX TakaTak,1522698952,itunes,ai,Anguilla,False,Social,None
+2021-08-15-21-31-24,Imo,com.imo.android.imoim,gplay,ao,Angola,True,Communication,https://play.google.com/store/apps/details?id=com.imo.android.imoim&hl=en&gl=ao
+2021-08-15-21-31-24,Josh Videos,1530819820,itunes,ai,Anguilla,False,Social,None
+2021-08-15-21-31-24,Facebook,com.facebook.katana,gplay,ai,Anguilla,True,Social,https://play.google.com/store/apps/details?id=com.facebook.katana&hl=en&gl=ai
+2021-08-15-21-31-24,Moj,1523457550,itunes,ai,Anguilla,False,Social,None
+2021-08-15-21-31-24,WhatsApp Business,com.whatsapp.w4b,gplay,ao,Angola,True,Communication,https://play.google.com/store/apps/details?id=com.whatsapp.w4b&hl=en&gl=ao
+2021-08-15-21-31-24,WhatsApp,310633997,itunes,ai,Anguilla,False,Communication,None
+2021-08-15-21-31-24,TikTok,com.zhiliaoapp.musically,gplay,ai,Anguilla,True,Social,https://play.google.com/store/apps/details?id=com.zhiliaoapp.musically&hl=en&gl=ai
+2021-08-15-21-31-24,Zoom,546505307,itunes,ai,Anguilla,False,Communication,None
+2021-08-15-21-31-24,Instagram,com.instagram.android,gplay,ai,Anguilla,True,Social,https://play.google.com/store/apps/details?id=com.instagram.android&hl=en&gl=ai
+2021-08-15-21-31-24,Messenger,454638411,itunes,ai,Anguilla,False,Communication,None
+2021-08-15-21-31-24,Twitter,com.twitter.android,gplay,ai,Anguilla,True,Social,https://play.google.com/store/apps/details?id=com.twitter.android&hl=en&gl=ai
+2021-08-15-21-31-24,Telegram,686449807,itunes,ai,Anguilla,False,Communication,None
+2021-08-15-21-31-24,Snapchat,com.snapchat.android,gplay,ai,Anguilla,True,Social,https://play.google.com/store/apps/details?id=com.snapchat.android&hl=en&gl=ai
+2021-08-15-21-31-24,Google Meet,1013231476,itunes,ai,Anguilla,False,Communication,None
+2021-08-15-21-31-24,Pinterest,com.pinterest,gplay,ai,Anguilla,True,Social,https://play.google.com/store/apps/details?id=com.pinterest&hl=en&gl=ai
+2021-08-15-21-31-24,Microsoft Teams,1113153706,itunes,ai,Anguilla,False,Communication,None
+2021-08-15-21-31-24,MX TakaTak,com.next.innovation.takatak,gplay,ai,Anguilla,True,Social,https://play.google.com/store/apps/details?id=com.next.innovation.takatak&hl=en&gl=ai
+2021-08-15-21-31-24,Discord,985746746,itunes,ai,Anguilla,False,Communication,None
+2021-08-15-21-31-24,BIGO Live,sg.bigo.live,gplay,ai,Anguilla,True,Social,https://play.google.com/store/apps/details?id=sg.bigo.live&hl=en&gl=ai
+2021-08-15-21-31-24,WhatsApp Business,1386412985,itunes,ai,Anguilla,False,Communication,None
+2021-08-15-21-31-24,Josh Videos,com.eterno.shortvideos,gplay,ai,Anguilla,True,Social,https://play.google.com/store/apps/details?id=com.eterno.shortvideos&hl=en&gl=ai
+2021-08-15-21-31-24,WeChat,414478124,itunes,ai,Anguilla,False,Communication,None
+2021-08-15-21-31-24,Moj,in.mohalla.video,gplay,ai,Anguilla,True,Social,https://play.google.com/store/apps/details?id=in.mohalla.video&hl=en&gl=ai
+2021-08-15-21-31-24,Imo,1400579543,itunes,ai,Anguilla,False,Communication,None
+2021-08-15-21-31-24,WhatsApp,com.whatsapp,gplay,ai,Anguilla,True,Communication,https://play.google.com/store/apps/details?id=com.whatsapp&hl=en&gl=ai
+2021-08-15-21-31-24,TikTok,835599320,itunes,ag,Antigua and Barbuda,False,Social,None
+2021-08-15-21-31-24,Zoom,us.zoom.videomeetings,gplay,ai,Anguilla,True,Communication,https://play.google.com/store/apps/details?id=us.zoom.videomeetings&hl=en&gl=ai
+2021-08-15-21-31-24,Facebook,284882215,itunes,ag,Antigua and Barbuda,False,Social,None
+2021-08-15-21-31-24,Messenger,com.facebook.orca,gplay,ai,Anguilla,True,Communication,https://play.google.com/store/apps/details?id=com.facebook.orca&hl=en&gl=ai
+2021-08-15-21-31-24,Instagram,389801252,itunes,ag,Antigua and Barbuda,False,Social,None
+2021-08-15-21-31-24,Telegram,org.telegram.messenger,gplay,ai,Anguilla,True,Communication,https://play.google.com/store/apps/details?id=org.telegram.messenger&hl=en&gl=ai
+2021-08-15-21-31-24,Snapchat,447188370,itunes,ag,Antigua and Barbuda,False,Social,None
+2021-08-15-21-31-24,Microsoft Teams,com.microsoft.teams,gplay,ai,Anguilla,True,Communication,https://play.google.com/store/apps/details?id=com.microsoft.teams&hl=en&gl=ai
+2021-08-15-21-31-24,Pinterest,429047995,itunes,ag,Antigua and Barbuda,False,Social,None
+2021-08-15-21-31-24,Google Meet,com.google.android.apps.meetings,gplay,ai,Anguilla,True,Communication,https://play.google.com/store/apps/details?id=com.google.android.apps.meetings&hl=en&gl=ai
+2021-08-15-21-31-24,Twitter,333903271,itunes,ag,Antigua and Barbuda,False,Social,None
+2021-08-15-21-31-24,Discord,com.discord,gplay,ai,Anguilla,True,Communication,https://play.google.com/store/apps/details?id=com.discord&hl=en&gl=ai
+2021-08-15-21-31-24,BIGO Live,1077137248,itunes,ag,Antigua and Barbuda,False,Social,None
+2021-08-15-21-31-24,WhatsApp Business,com.whatsapp.w4b,gplay,ai,Anguilla,True,Communication,https://play.google.com/store/apps/details?id=com.whatsapp.w4b&hl=en&gl=ai
+2021-08-15-21-31-24,MX TakaTak,1522698952,itunes,ag,Antigua and Barbuda,False,Social,None
+2021-08-15-21-31-24,Imo,com.imo.android.imoim,gplay,ai,Anguilla,True,Communication,https://play.google.com/store/apps/details?id=com.imo.android.imoim&hl=en&gl=ai
+2021-08-15-21-31-24,Josh Videos,1530819820,itunes,ag,Antigua and Barbuda,False,Social,None
+2021-08-15-21-31-24,WeChat,com.tencent.mm,gplay,ai,Anguilla,True,Communication,https://play.google.com/store/apps/details?id=com.tencent.mm&hl=en&gl=ai
+2021-08-15-21-31-24,Moj,1523457550,itunes,ag,Antigua and Barbuda,False,Social,None
+2021-08-15-21-31-24,Facebook,com.facebook.katana,gplay,ag,Antigua and Barbuda,True,Social,https://play.google.com/store/apps/details?id=com.facebook.katana&hl=en&gl=ag
+2021-08-15-21-31-24,WhatsApp,310633997,itunes,ag,Antigua and Barbuda,False,Communication,None
+2021-08-15-21-31-24,MX TakaTak,com.next.innovation.takatak,gplay,ag,Antigua and Barbuda,True,Social,https://play.google.com/store/apps/details?id=com.next.innovation.takatak&hl=en&gl=ag
+2021-08-15-21-31-24,Zoom,546505307,itunes,ag,Antigua and Barbuda,False,Communication,None
+2021-08-15-21-31-24,TikTok,com.zhiliaoapp.musically,gplay,ag,Antigua and Barbuda,True,Social,https://play.google.com/store/apps/details?id=com.zhiliaoapp.musically&hl=en&gl=ag
+2021-08-15-21-31-24,Messenger,454638411,itunes,ag,Antigua and Barbuda,False,Communication,None
+2021-08-15-21-31-24,BIGO Live,sg.bigo.live,gplay,ag,Antigua and Barbuda,True,Social,https://play.google.com/store/apps/details?id=sg.bigo.live&hl=en&gl=ag
+2021-08-15-21-31-24,Telegram,686449807,itunes,ag,Antigua and Barbuda,False,Communication,None
+2021-08-15-21-31-24,Instagram,com.instagram.android,gplay,ag,Antigua and Barbuda,True,Social,https://play.google.com/store/apps/details?id=com.instagram.android&hl=en&gl=ag
+2021-08-15-21-31-24,Google Meet,1013231476,itunes,ag,Antigua and Barbuda,False,Communication,None
+2021-08-15-21-31-24,Snapchat,com.snapchat.android,gplay,ag,Antigua and Barbuda,True,Social,https://play.google.com/store/apps/details?id=com.snapchat.android&hl=en&gl=ag
+2021-08-15-21-31-24,Microsoft Teams,1113153706,itunes,ag,Antigua and Barbuda,False,Communication,None
+2021-08-15-21-31-24,Pinterest,com.pinterest,gplay,ag,Antigua and Barbuda,True,Social,https://play.google.com/store/apps/details?id=com.pinterest&hl=en&gl=ag
+2021-08-15-21-31-24,Discord,985746746,itunes,ag,Antigua and Barbuda,False,Communication,None
+2021-08-15-21-31-24,Twitter,com.twitter.android,gplay,ag,Antigua and Barbuda,True,Social,https://play.google.com/store/apps/details?id=com.twitter.android&hl=en&gl=ag
+2021-08-15-21-31-24,WhatsApp Business,1386412985,itunes,ag,Antigua and Barbuda,False,Communication,None
+2021-08-15-21-31-24,Josh Videos,com.eterno.shortvideos,gplay,ag,Antigua and Barbuda,True,Social,https://play.google.com/store/apps/details?id=com.eterno.shortvideos&hl=en&gl=ag
+2021-08-15-21-31-24,WeChat,414478124,itunes,ag,Antigua and Barbuda,False,Communication,None
+2021-08-15-21-31-24,Moj,in.mohalla.video,gplay,ag,Antigua and Barbuda,True,Social,https://play.google.com/store/apps/details?id=in.mohalla.video&hl=en&gl=ag
+2021-08-15-21-31-24,Imo,1400579543,itunes,ag,Antigua and Barbuda,False,Communication,None
+2021-08-15-21-31-24,WhatsApp,com.whatsapp,gplay,ag,Antigua and Barbuda,True,Communication,https://play.google.com/store/apps/details?id=com.whatsapp&hl=en&gl=ag
+2021-08-15-21-31-24,Zoom,us.zoom.videomeetings,gplay,ag,Antigua and Barbuda,True,Communication,https://play.google.com/store/apps/details?id=us.zoom.videomeetings&hl=en&gl=ag
+2021-08-15-21-31-24,Google Meet,com.google.android.apps.meetings,gplay,ag,Antigua and Barbuda,True,Communication,https://play.google.com/store/apps/details?id=com.google.android.apps.meetings&hl=en&gl=ag
+2021-08-15-21-31-24,Messenger,com.facebook.orca,gplay,ag,Antigua and Barbuda,True,Communication,https://play.google.com/store/apps/details?id=com.facebook.orca&hl=en&gl=ag
+2021-08-15-21-31-24,WhatsApp Business,com.whatsapp.w4b,gplay,ag,Antigua and Barbuda,True,Communication,https://play.google.com/store/apps/details?id=com.whatsapp.w4b&hl=en&gl=ag
+2021-08-15-21-31-24,Telegram,org.telegram.messenger,gplay,ag,Antigua and Barbuda,True,Communication,https://play.google.com/store/apps/details?id=org.telegram.messenger&hl=en&gl=ag
+2021-08-15-21-31-24,Imo,com.imo.android.imoim,gplay,ag,Antigua and Barbuda,True,Communication,https://play.google.com/store/apps/details?id=com.imo.android.imoim&hl=en&gl=ag
+2021-08-15-21-31-24,Microsoft Teams,com.microsoft.teams,gplay,ag,Antigua and Barbuda,True,Communication,https://play.google.com/store/apps/details?id=com.microsoft.teams&hl=en&gl=ag
+2021-08-15-21-31-24,Discord,com.discord,gplay,ag,Antigua and Barbuda,True,Communication,https://play.google.com/store/apps/details?id=com.discord&hl=en&gl=ag
+2021-08-15-21-31-24,WeChat,com.tencent.mm,gplay,ag,Antigua and Barbuda,True,Communication,https://play.google.com/store/apps/details?id=com.tencent.mm&hl=en&gl=ag
