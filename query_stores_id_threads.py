@@ -9,7 +9,7 @@ from datetime import datetime
 import time
 from threading import Thread, Lock
 from concurrent.futures import ThreadPoolExecutor
-
+from collections import deque
 
 def get_app_dict():
     #convert app_list.csv to .json
@@ -96,10 +96,7 @@ def gplay_scraper(app):
         #print(f"App {app['name']} doesn't exist in {country}!")
         #save_json(f"gplay/gplay_{app.name}_{app.country_name()}.json", "[]")
         data = [timestamp, app.name, app.id, app.store, app.country_code, app.country_name(), 'False', app.genre, 'None']
-    
-    lock.acquire()
-    csvrows.append(data)
-    lock.release()
+    outputqueue.append(data)
     
 def itunes_scraper(app):
     print(f"Querying Itunes App Store for {app.name} in {app.country_name()}")
@@ -113,11 +110,8 @@ def itunes_scraper(app):
         #print(f"App {app['name']} doesn't exist in {country}!")
         #save_json(f"itunes/itunes_{app.name}_{app.country_name()}.json", "[]")
         data = [timestamp, app.name, app.id, app.store, app.country_code, app.country_name(), 'False', app.genre, 'None']
-  
-    lock.acquire()
-    csvrows.append(data)
-    lock.release()
-    
+    outputqueue.append(data)
+
 def scraper_threading(app):
     if app.store == 'apple':
         itunes_scraper(app)
@@ -142,14 +136,14 @@ if __name__=='__main__':
     lock = Lock()
     app_objects = app_object_gen() 
     
-    global csvrows
-    csvrows = []
+    outputqueue = deque()
+
     with ThreadPoolExecutor(max_workers=10) as exe:
         # Maps the method 'cube' with a list of values.
         run = exe.map(scraper_threading, app_objects)
     
-    
-    save_csv(f"output/{timestamp}-appcensor.csv", csvrows)
+    rows = list(outputqueue)
+    save_csv(f"output/{timestamp}-appcensor.csv", rows)
 
     t2 = time.perf_counter()
     print(f'MultiThreaded Code Took:{t2 - t1} seconds')
