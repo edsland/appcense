@@ -81,13 +81,13 @@ def app_object_gen():
 
     TEST_LIST=['af', 'al', 'dz', 'ao', 'ai', 'ag']
     COUNTRY_LIST=['af', 'al', 'dz', 'ao', 'ai', 'ag', 'ar', 'am', 'au', 'at', 'az', 'bs', 'bh', 'bb', 'by', 'be', 'bz', 'bj', 'bm', 'bt', 'bo', 
-        'ba', 'bw', 'br', 'io', 'bn', 'bg', 'bf', 'cv', 'kh', 'cm', 'ca', 'ky', 'td', 'cl', 'cn', 'cx', 'cc', 'co', 'cg', 'cd', 'cr', 'ci', 'hr', 
-        'cw', 'cy', 'cz', 'dk', 'dm', 'do', 'ec', 'eg', 'sv', 'ee', 'sz', 'fj', 'fi', 'fr', 'ga', 'gm', 'ge', 'de', 'gh', 'gr', 'gd', 'gu', 'gt', 
-        'gw', 'gy', 'hm', 'hn', 'hk', 'hu', 'is', 'in', 'id', 'iq', 'ie', 'il', 'it', 'jm', 'jp', 'jo', 'kz', 'ke', 'ki', 'kr', 'kw', 'kg', 'la', 
-        'lv', 'lb', 'lr', 'ly', 'lt', 'lu', 'mo', 'mk', 'mg', 'mw', 'my', 'mv', 'ml', 'mt', 'mh', 'mr', 'mu', 'yt', 'mx', 'fm', 'md', 'mn', 'me', 
-        'ms', 'ma', 'mz', 'mm', 'na', 'nr', 'np', 'nl', 'nz', 'ni', 'ne', 'ng', 'mp', 'no', 'om', 'pk', 'pw', 'pa', 'pg', 'py', 'pe', 'ph', 
+        'ba', 'bw', 'br', 'bn', 'bg', 'bf', 'cv', 'kh', 'cm', 'ca', 'ky', 'td', 'cl', 'cn', 'co', 'cg', 'cd', 'cr', 'ci', 'hr', 'cy',
+         'cz', 'dk', 'dm', 'do', 'ec', 'eg', 'sv', 'ee', 'sz', 'fj', 'fi', 'fr', 'ga', 'gm', 'ge', 'de', 'gh', 'gr', 'gd', 'gt', 
+        'gw', 'gy', 'hn', 'hk', 'hu', 'is', 'in', 'id', 'iq', 'ie', 'il', 'it', 'jm', 'jp', 'jo', 'kz', 'ke', 'kr', 'kw', 'kg', 'la', 
+        'lv', 'lb', 'lr', 'ly', 'lt', 'lu', 'mo', 'mk', 'mg', 'mw', 'my', 'mv', 'ml', 'mt', 'mr', 'mu', 'mx', 'fm', 'md', 'mn', 'me', 
+        'ms', 'ma', 'mz', 'mm', 'na', 'nr', 'np', 'nl', 'nz', 'ni', 'ne', 'ng', 'no', 'om', 'pk', 'pw', 'pa', 'pg', 'py', 'pe', 'ph', 
         'pl', 'pt', 'qa', 'ro', 'ru', 'rw', 'kn', 'lc', 'vc', 'st', 'sa', 'sn', 'rs', 'sc', 'sl', 'sg', 'sk', 'si', 'sb', 'za', 'es', 'lk', 'sr', 
-        'se', 'ch', 'tw', 'tj', 'th', 'to', 'tt', 'tn', 'tr', 'tm', 'tc', 'ug', 'ua', 'ae', 'gb', 'us', 'um', 'uy', 'uz', 'vu', 've', 'vn', 'vg', 'ye', 'zm', 'zw']
+        'se', 'ch', 'tw', 'tj', 'th', 'to', 'tt', 'tn', 'tr', 'tm', 'tc', 'ug', 'ua', 'ae', 'gb', 'us', 'uy', 'uz', 'vu', 've', 'vn', 'vg', 'ye', 'zm', 'zw']
 
     app_objects= []
 
@@ -153,7 +153,7 @@ if __name__=='__main__':
         run = exe.map(scraper_threading, app_objects)
     
     rows = list(outputqueue)
-    save_csv(f"output/{timestamp}-appcensor.csv", rows)
+    save_csv(f"output/appcense-{timestamp}.csv", rows)
 
     t2 = time.perf_counter()
     print(f'MultiThreaded Code Took:{t2 - t1} seconds')
