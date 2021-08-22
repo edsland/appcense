@@ -1,6 +1,7 @@
 import pathlib
 import json
-from app_instance import app_instance
+import pycountry
+#from app_instance import app_instance
 import google_play_scraper as gplay
 from itunes_app_scraper.scraper import AppStoreScraper
 import csv 
@@ -8,6 +9,21 @@ from datetime import datetime
 import time
 from concurrent.futures import ThreadPoolExecutor
 from collections import deque
+import pycountry
+
+
+class app_instance:
+    def __init__(self, name, id, store, country_code, genre):
+        self.name = name
+        self.id = id
+        self.store = store
+        self.country_code = country_code 
+        self.genre = genre 
+    
+    def country_name(self):
+        cc = pycountry.countries.get(alpha_2=self.country_code)
+        cname = cc.name 
+        return cname
 
 def get_app_dict():
     #convert app_list.csv to .json
@@ -121,13 +137,11 @@ def scraper_threading(app):
 
 if __name__=='__main__':
     t1 = time.perf_counter()
-    timestamp = datetime.now()
+    ts = datetime.now()
+    timestamp = ts.isoformat()
 
-    #create directories
+    #create output directory
     print("Creating directories")
-    #directories=["output"]
-
-    #for directory in directories:
     pathlib.Path("output").mkdir(parents=True, exist_ok=True)
 
     app_objects = app_object_gen() 
@@ -135,7 +149,7 @@ if __name__=='__main__':
     outputqueue = deque()
 
     with ThreadPoolExecutor(max_workers=10) as exe:
-        # Maps the method 'cube' with a list of values.
+        # Maps the method  scraper_threading with list of app_objects
         run = exe.map(scraper_threading, app_objects)
     
     rows = list(outputqueue)
