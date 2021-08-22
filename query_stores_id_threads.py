@@ -4,10 +4,8 @@ from app_instance import app_instance
 import google_play_scraper as gplay
 from itunes_app_scraper.scraper import AppStoreScraper
 import csv 
-from pprint import pprint
 from datetime import datetime
 import time
-from threading import Thread, Lock
 from concurrent.futures import ThreadPoolExecutor
 from collections import deque
 
@@ -123,17 +121,15 @@ def scraper_threading(app):
 
 if __name__=='__main__':
     t1 = time.perf_counter()
-    now = datetime.now()
-    timestamp = now.strftime('%Y-%m-%d-%H-%M-%S')
+    timestamp = datetime.now()
 
     #create directories
     print("Creating directories")
-    directories=["gplay", "itunes", "output"]
+    #directories=["output"]
 
-    for directory in directories:
-        pathlib.Path(f"{directory}").mkdir(parents=True, exist_ok=True)
+    #for directory in directories:
+    pathlib.Path("output").mkdir(parents=True, exist_ok=True)
 
-    lock = Lock()
     app_objects = app_object_gen() 
     
     outputqueue = deque()
