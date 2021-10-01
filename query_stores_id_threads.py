@@ -1,11 +1,10 @@
 import pathlib
 import json
 import pycountry
-#from app_instance import app_instance
 import google_play_scraper as gplay
 from itunes_app_scraper.scraper import AppStoreScraper
 import csv 
-from datetime import datetime
+from datetime import date
 import time
 from concurrent.futures import ThreadPoolExecutor
 from collections import deque
@@ -69,7 +68,7 @@ def save_json(filename, data):
 def save_csv(filename, data):
     # save list into a csv file to output folder
     #filename = f"appcensor-{timestamp}.csv"
-    fieldnames = ['timestamp','name', 'id', 'store', 'country_code', 'country', 'available', 'genre', 'url']
+    fieldnames = ['date','app_name', 'app_id', 'app_store', 'country_code', 'country', 'censored', 'genre', 'url']
 
     with open(filename, mode='w') as csvfile:
         writer = csv.writer(csvfile)
@@ -137,7 +136,7 @@ def scraper_threading(app):
 
 if __name__=='__main__':
     t1 = time.perf_counter()
-    ts = datetime.now()
+    ts = date.today()
     timestamp = ts.isoformat()
 
     #create output directory
